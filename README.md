@@ -68,7 +68,14 @@
 ### Добавляем связь между хостами и самим Zabbix-server:
 <img src = "img/m3.png" width = 100%>
 
+### Добавляем триггер на недоступность агента на хосте dedyurindn-1:
+<img src = "img/m4.png" width = 100%>
 
+### Тоже самое проделываем на хосте dedyurindn-2:
+<img src = "img/m5.png" width = 100%>
+
+### Сохраняем и получаем итоговую карту:
+<img src = "img/m6.png" width = 100%>
 
 
 
